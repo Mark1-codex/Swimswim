@@ -20,7 +20,7 @@ A cross-platform Python command-line tool built for learning async programming, 
 
 ### Clone the repository
 
-git clone https://github.com/YourUsername/YourProject.git
+git clone https://github.com/Mark1-codex/DDoS-Tester.git
 cd YourProject
 
 ### Install dependencies
