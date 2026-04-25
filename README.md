@@ -27,16 +27,6 @@ cd YourProject
 
 pip install aiohttp
 
-## Usage
-
-Run the project with:
-
-python main.py
-
-Or if packaged:
-
-yourproject
-
 ## Project Structure
 
 YourProject/
