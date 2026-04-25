@@ -1,4 +1,4 @@
-# YourProject
+# Swimswim project
 
 A cross-platform Python command-line tool built for learning async programming, networking, and automation.
 
