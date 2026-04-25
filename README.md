@@ -20,8 +20,8 @@ A cross-platform Python command-line tool built for learning async programming, 
 
 ### Clone the repository
 
-git clone https://github.com/Mark1-codex/DDoS-Tester.git
-cd YourProject
+git clone https://github.com/Mark1-codex/Swimswim.git
+cd Swimswim
 
 ### Install dependencies
 
