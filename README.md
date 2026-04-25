@@ -28,14 +28,12 @@ cd YourProject
 pip install aiohttp
 
 ## Project Structure
-
-YourProject/
+Swimswim/
 ├── main.py
 ├── asciiart.py
 ├── README.md
 ├── LICENSE
 ├── pyproject.toml
-└── requirements.txt
 
 ## Goals of This Project
 
